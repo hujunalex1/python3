@@ -7,4 +7,5 @@ if a>0:
 	print(a)
 else:
 	print(-a)
-	
+	for i in range(1,10)
+    prin (i)
