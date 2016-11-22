@@ -1,5 +1,5 @@
 
-name=input("请输入您的姓名：")
+name=raw_input("请输入您的姓名：")
 print('hello',name)
 
 a=-1
