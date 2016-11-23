@@ -1,0 +1,5 @@
+# tuple是一种序列类型的数据
+
+ t = 1,"23",[123,"abc"],("python","learn")   #元素多样性，近list
+>>> t
+(1, '23', [123, 'abc'], ('python', 'learn'))
